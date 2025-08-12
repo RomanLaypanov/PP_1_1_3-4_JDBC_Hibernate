@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaProjectCodeInsightSettings">
+    <included-static-names>
+      <name>jm.task.core.jdbc.util.Util.getConnection</name>
+      <name>jm.task.core.jdbc.util.Util.getConnectionHiber</name>
+    </included-static-names>
+  </component>
+</project>
